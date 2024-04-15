@@ -2,6 +2,8 @@
 
 Welcome to the usePopcorn repository! Your go-to solution for managing movie data with custom hooks! 🎬
 
+  ![Travel List Screenshot](./public/use-popcorn.png )
+
 ## Description 📝
 
 usePopcorn is a React application built with custom hooks to simplify data fetching and management for movie-related information. With its efficient use of useEffect and custom hooks, it provides a seamless experience for retrieving and displaying movie data.
